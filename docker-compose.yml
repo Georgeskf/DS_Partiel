@@ -1,6 +1,0 @@
-version: "3"
-services:
-  web:
-    image: yaghi27/cicd:latest
-    ports:
-      - "8080:80"

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kbYrA1l1P/K54sL0/7dXV1obzLll4OStVzFRhmyT0zD44NKfa3sQAE8ZTZqToaCe/z6W2fd3FPXiiyPsmC0avA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GeorgesKfoury\\Documents\\GitHub\\DS_Partiel\\DS_Partiel\\DS_Partiel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GeorgesKfoury\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
