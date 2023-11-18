@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GeorgesKfoury\\Documents\\GitHub\\DS_Partiel\\DS_Partiel\\DS_Partiel.csproj": {}
+    "C:\\Users\\GeorgesKfoury\\source\\repos\\DS__Partiel\\DS_Partiel\\DS_Partiel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GeorgesKfoury\\Documents\\GitHub\\DS_Partiel\\DS_Partiel\\DS_Partiel.csproj": {
+    "C:\\Users\\GeorgesKfoury\\source\\repos\\DS__Partiel\\DS_Partiel\\DS_Partiel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GeorgesKfoury\\Documents\\GitHub\\DS_Partiel\\DS_Partiel\\DS_Partiel.csproj",
+        "projectUniqueName": "C:\\Users\\GeorgesKfoury\\source\\repos\\DS__Partiel\\DS_Partiel\\DS_Partiel.csproj",
         "projectName": "DS_Partiel",
-        "projectPath": "C:\\Users\\GeorgesKfoury\\Documents\\GitHub\\DS_Partiel\\DS_Partiel\\DS_Partiel.csproj",
+        "projectPath": "C:\\Users\\GeorgesKfoury\\source\\repos\\DS__Partiel\\DS_Partiel\\DS_Partiel.csproj",
         "packagesPath": "C:\\Users\\GeorgesKfoury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GeorgesKfoury\\Documents\\GitHub\\DS_Partiel\\DS_Partiel\\obj\\",
+        "outputPath": "C:\\Users\\GeorgesKfoury\\source\\repos\\DS__Partiel\\DS_Partiel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GeorgesKfoury\\AppData\\Roaming\\NuGet\\NuGet.Config",
